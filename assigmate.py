@@ -1,0 +1,16 @@
+print("=======================================")
+print("     GALACTIC FEDERATION ID CARD")
+print("=======================================")
+
+name = input("Full name:")
+planet = input("Home Planet:")
+species = input("Species:")
+rank = input ("Rank:")
+print(f"Rank [{rank}]")
+print(f"Species: [{species}]")
+print(f"Home Planet: [{planet}]")
+print(f"Full name: [{name}]")
+
+print("---------------------------------------")
+print("ID Code: GF - [User's ID Number] - [User's Home Planet]")
+print("=======================================")
